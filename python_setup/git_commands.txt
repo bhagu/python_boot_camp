@@ -1,0 +1,27 @@
+-- initialize the git repository
+git init
+
+git config --global user.name 'bhagyaraj.chitoth'
+
+-- what has changed since your last commit
+git status
+
+-- add to staging area
+git add *
+
+git add <list of files>
+git add --all
+git add *.txt
+git add docs/*.txt
+git add docs
+git add "*.txt"
+
+git status
+
+git commit -m 'comments'
+
+git push
+
+-- history
+git log
+
