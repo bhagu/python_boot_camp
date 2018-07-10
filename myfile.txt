@@ -1,0 +1,3 @@
+hello this is a text file
+created as part of the python bootcamp
+using the file to learn file io

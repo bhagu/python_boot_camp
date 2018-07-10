@@ -1,0 +1,13 @@
+*** command line notes ***
+
+cls - clear screen
+
+cd - current directory
+
+md - make directory
+
+dir - contents of the directory
+
+cd folder_name - change directory
+
+cd.. - move back up to the parent directory
